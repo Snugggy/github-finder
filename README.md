@@ -1,4 +1,4 @@
-# Task-List-app
+# GitHub-finder
 web app to give information about a given GitHub user  
 given a correct GitHub user name, the app gives the following information  
 * profile picture
